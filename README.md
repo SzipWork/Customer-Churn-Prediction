@@ -46,6 +46,3 @@ This project predicts customer churn using an **Artificial Neural Network (ANN)*
 ## Results & Improvements
 - Achieved high accuracy in predicting customer churn.
 - Future improvements: Hyperparameter tuning, more feature engineering, and using ensemble models.
-
-## License
-This project is open-source and available under the MIT License.
